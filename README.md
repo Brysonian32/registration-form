@@ -1,0 +1,1 @@
+This Java program creates a graphical user interface (GUI) for a student registration form. The form allows users to enter their name, age, and course, and then submits the details to a MySQL database.
